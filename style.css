@@ -1,0 +1,81 @@
+/* Ensure body width is set to 100% */
+body {
+  background-image: linear-gradient(to bottom right, rgb(198, 238, 244), white);
+}
+
+/* Adjust margin */
+.margin {
+  margin-top: 1rem; /* Use appropriate unit */
+}
+
+/* Adjust margin for collapse menu */
+.collapse ul {
+  margin-left: 3rem; /* Adjust margin as needed */
+}
+
+/* Adjust margin for team class */
+.team {
+  margin-left: 1rem; /* Adjust margin as needed */
+  margin-top: 10rem;
+  font-weight: bold; /* Correct property name */
+  font-size: 2.875rem;
+  line-height: 3.5rem;
+}
+
+/* Adjust margin for h1-large */
+h1-large {
+  font-size: 2.875rem;
+  line-height: 3.5rem;
+}
+
+/* Adjust button padding */
+.download,
+.download2,
+.lastbtn {
+  border-radius: 30px;
+  padding: 15px 32px; /* Adjust padding as needed */
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Adjust button size */
+.download {
+  background-color: rgb(47, 30, 201);
+  color: white;
+}
+
+.download2 {
+  background-color: rgb(206, 43, 214);
+  color: white;
+}
+
+.lastbtn {
+  background-color: rgb(32, 32, 216);
+  color: white;
+}
+
+/* Button hover styles */
+.download:hover,
+.download2:hover,
+.lastbtn:hover {
+  background-color: white;
+  color: rgb(90, 90, 137);
+}
+
+/* Adjust image size */
+.cardImg {
+  width: 10px; /* Center image */
+}
+
+/* Adjust card styles */
+.editcard {
+  border-radius: 10px;
+  background-color: rgb(200, 230, 232);
+  margin: 15px;
+  border: none;
+}
+
+/* Adjust countbox margin */
+.countbox {
+  margin-left: 3rem;
+}
