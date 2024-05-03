@@ -79,3 +79,23 @@ h1-large {
 .countbox {
   margin-left: 3rem;
 }
+.moneycard {
+  background-color: rgb(252, 252, 249);
+  margin-right: 2rem;
+  text-align: center;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.moneycard h2 {
+  color: red;
+}
+.moneycard ul {
+  list-style-type: none;
+}
+.price {
+  display: flex;
+  margin: 2rem 4rem 2rem 4rem;
+}
+.moneycard:hover {
+  border: 1px solid black;
+}
